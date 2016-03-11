@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = bitswift-qt
-VERSION = 2.0.0.1
+VERSION = 3.0.0.0
 INCLUDEPATH += src src/json src/qt
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 QT += core gui network
@@ -8,27 +8,12 @@ CONFIG += no_include_pwd
 CONFIG += thread
 CONFIG += static
 
-win32:QMAKE_LFLAGS *= -Wl,--large-address-aware -static
-
 QMAKE_CXXFLAGS = -fpermissive
 
 greaterThan(QT_MAJOR_VERSION, 4) {
     QT += widgets
     DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0
 }
-
-BOOST_LIB_SUFFIX=-mgw48-mt-s-1_55
-BOOST_INCLUDE_PATH=C:/deps/boost_1_55_0
-BOOST_LIB_PATH=C:/deps/boost_1_55_0/stage/lib
-BDB_INCLUDE_PATH=C:/deps/db-4.8.30.NC/build_unix
-BDB_LIB_PATH=C:/deps/db-4.8.30.NC/build_unix
-OPENSSL_INCLUDE_PATH=C:/deps/openssl-1.0.1g/include
-OPENSSL_LIB_PATH=C:/deps/openssl-1.0.1g
-MINIUPNPC_INCLUDE_PATH=C:/deps/
-MINIUPNPC_LIB_PATH=C:/deps/miniupnpc
-QRENCODE_INCLUDE_PATH=C:/deps/qrencode-3.4.3
-QRENCODE_LIB_PATH=C:/deps/qrencode-3.4.3/.libs
-
 
 # for boost 1.37, add -mt to the boost libraries
 # use: qmake BOOST_LIB_SUFFIX=-mt
@@ -221,6 +206,7 @@ HEADERS += src/qt/bitcoingui.h \
     src/walletdb.h \
     src/script.h \
     src/stealth.h \
+	src/smessage.h \
     src/init.h \
     src/irc.h \
     src/mruset.h \
@@ -258,7 +244,6 @@ HEADERS += src/qt/bitcoingui.h \
     src/qt/askpassphrasedialog.h \
     src/protocol.h \
     src/qt/notificator.h \
-	src/qt/statisticspage.h \
     src/qt/qtipcserver.h \
     src/allocators.h \
     src/ui_interface.h \
@@ -288,8 +273,7 @@ HEADERS += src/qt/bitcoingui.h \
 	src/sph_whirlpool.h \
     src/sph_types.h \
     src/threadsafety.h \
-    src/txdb-leveldb.h \
-    src/qt/blockbrowser.h
+    src/txdb-leveldb.h 
 
 SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/qt/transactiontablemodel.cpp \
@@ -312,7 +296,6 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/script.cpp \
     src/main.cpp \
     src/miner.cpp \
-	src/qt/statisticspage.cpp \
     src/init.cpp \
     src/net.cpp \
     src/irc.cpp \
@@ -361,7 +344,7 @@ SOURCES += src/qt/bitcoin.cpp src/qt/bitcoingui.cpp \
     src/scrypt.cpp \
     src/pbkdf2.cpp \
     src/stealth.cpp \
-    src/qt/blockbrowser.cpp
+	src/smessage.cpp
 
 RESOURCES += \
     src/qt/bitcoin.qrc
@@ -378,9 +361,7 @@ FORMS += \
     src/qt/forms/sendcoinsentry.ui \
     src/qt/forms/askpassphrasedialog.ui \
     src/qt/forms/rpcconsole.ui \
-    src/qt/forms/optionsdialog.ui \
-	src/qt/forms/statisticspage.ui \
-    src/qt/forms/blockbrowser.ui
+    src/qt/forms/optionsdialog.ui 
 
 contains(USE_QRCODE, 1) {
 HEADERS += src/qt/qrcodedialog.h
