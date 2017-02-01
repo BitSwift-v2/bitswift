@@ -1,4 +1,4 @@
-BitSwift cryptocurrency.
+Bitswift blockchain network
 
 RPCPort: 21137
 
@@ -10,4 +10,4 @@ Min Stake Age 4 Hours
 
 Max Stake Age 20 Days
 
-POD-CryptoAsian
+
