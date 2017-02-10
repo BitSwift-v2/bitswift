@@ -1,6 +1,6 @@
 # Bitswift Cryptocurrency
 =======
-Bitswift blockchain network
+BitSwift Blockchain Network
 
 http://bitswift.io/
 
