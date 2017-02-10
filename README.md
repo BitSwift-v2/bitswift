@@ -1,8 +1,7 @@
-# Bitswift Cryptocurrency
-=======
-BitSwift Blockchain Network
+# Bitswift Blockchain Network
 
-http://bitswift.io/
+Tech site:  http://bitswift.tech
+Token site: http://bitswift.io/
 
 The Bitswift Blockchain network is a publicly available experimental distributed ledger that has been in operation since 2014.  The networks decentralized model ensures stability and reliability while maintaining transactional performance. The Bitswift networks business association, and integration, sets it apart from other comparable decentralized ledgers.    
 
