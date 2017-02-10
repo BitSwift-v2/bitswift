@@ -89,7 +89,7 @@ void MacDockIconHandler::setIcon(const QIcon &icon)
         QSize size = icon.actualSize(QSize(128, 128));
         QPixmap pixmap = icon.pixmap(size);
 
-        // write temp file BitSwift (could also be done through QIODevice [memory])
+        // write temp file Bitswift (could also be done through QIODevice [memory])
         QTemporaryFile notificationIconFile;
         if (!pixmap.isNull() && notificationIconFile.open()) {
             QImageWriter writer(&notificationIconFile, "PNG");

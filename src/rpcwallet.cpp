@@ -2069,7 +2069,7 @@ Value sendtostealthaddress(const Array& params, bool fHelp)
 
     if (!sxAddr.SetEncoded(sEncoded))
     {
-        result.push_back(Pair("result", "Invalid BitSwift Stealth Address."));
+        result.push_back(Pair("result", "Invalid Bitswift Stealth Address."));
         return result;
     };
 
