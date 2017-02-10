@@ -1141,6 +1141,7 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
     {"seednode1", "144.217.81.218"},      // ok
     {"seednode2", "144.217.4.246"},      // ok
+    {"seednode3", "149.56.111.174"},      // ok
 	
 };
 

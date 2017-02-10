@@ -18,11 +18,11 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "BitSwift"
-            VALUE "FileDescription",    "bitswift-Qt (OSS GUI client for BitSwift)"
+            VALUE "CompanyName",        "Bitswift"
+            VALUE "FileDescription",    "bitswift-Qt (OSS GUI client for Bitswift)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "bitswift-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The PPCoin developers, 2014 The BitSwift developers"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The PPCoin developers, 2014 The Bitswift developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "bitswift-qt.exe"
             VALUE "ProductName",        "bitswift-Qt"
