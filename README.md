@@ -1,4 +1,6 @@
 # Bitswift Cryptocurrency
+=======
+Bitswift blockchain network
 
 The Bitswift Blockchain network is a publicly available experimental distributed ledger that has been in operation since 2014.  The networks decentralized model ensures stability and reliability while maintaining transactional performance. The Bitswift networks business association, and integration, sets it apart from other comparable decentralized ledgers.    
 
@@ -28,3 +30,4 @@ rpcconnect=127.0.0.1
 ```
 
 ###### * Please note, while the Bitswift network has a good track record, it is  still considered experimental software.    Bitswift Decentralized Applications Inc. operating as Bitswift Technology Solutions and its employees, affiliates and related,  may not be held liable for any damage, or losses incurred by using the network whether directly or indirectly or inherited otherwise.
+=======
