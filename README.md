@@ -2,6 +2,8 @@
 =======
 Bitswift blockchain network
 
+http://bitswift.io/
+
 The Bitswift Blockchain network is a publicly available experimental distributed ledger that has been in operation since 2014.  The networks decentralized model ensures stability and reliability while maintaining transactional performance. The Bitswift networks business association, and integration, sets it apart from other comparable decentralized ledgers.    
 
 A copy of the current Bitswift networks source code can be found here: https://github.com/BitSwift-v2/bitswift
@@ -10,9 +12,8 @@ To take full advantage of the networks features, we recommend building from sour
 
 The Bitswift network may serve different use cases such as, digital notary services, secure digital value storage, secure digital value transfer measurement, and smart contracts.
 
-To learn more about the Bitswift network and how it can benefit you, give us a call at +1 888-64-SWIFT.  A qualified Bitswift Technology Solutions representative will be happy to assist you. You can also find more information at http://bitswift.io/
 ### Bitswift Specs
-* RPCPort: 1137
+* RPCPort: 21137
 * P2PPort: 21138
 * 3% POS Interest per Year
 * Min Stake Age 4 Hours
