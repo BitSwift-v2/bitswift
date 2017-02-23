@@ -1,9 +1,13 @@
 # What is the Bitswift rewards network?
 
-The Bitswift rewards network is a publicly available distributed ledger that is secured through the networks decentralized model. Our rewards network is built on top of blockchain technology which ensures security and reliability while maintaining exceptional performance. 
+The Bitswift rewards network is a publicly available distributed ledger that is secured through the networks decentralized model. Our rewards network is built on top of blockchain technology which ensures security and reliability while maintaining exceptional performance.
+
 The Bitswift rewards network business association, and integration, sets it apart from other comparable decentralized ledgers.  The Bitswift rewards network may serve different use cases such as, digital notary, digital proof systems and smart contract protocol services.
+
 Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain real value because they are backed by Bitcoin, the fair and transparent p2p value transfer protocol of the internet, and we will accept them at face value for any of Bitswift related products or services. 
+
 A copy of the current Bitswift reward networks source code can be found here: GITHUB
+
 To take full advantage of the networks features, we recommend building from source and running in a secure Linux environment.
 
 ### Bitswift Specs
