@@ -1,16 +1,10 @@
-# Bitswift Blockchain Network
+# What is the Bitswift rewards network?
 
-Tech site:  http://bitswift.tech
-
-Token site: http://bitswift.io/
-
-The Bitswift Blockchain network is a publicly available experimental distributed ledger that has been in operation since 2014.  The networks decentralized model ensures stability and reliability while maintaining transactional performance. The Bitswift networks business association, and integration, sets it apart from other comparable decentralized ledgers.    
-
-A copy of the current Bitswift networks source code can be found here: https://github.com/BitSwift-v2/bitswift
-
+The Bitswift rewards network is a publicly available distributed ledger that is secured through the networks decentralized model. Our rewards network is built on top of blockchain technology which ensures security and reliability while maintaining exceptional performance. 
+The Bitswift rewards network business association, and integration, sets it apart from other comparable decentralized ledgers.  The Bitswift rewards network may serve different use cases such as, digital notary, digital proof systems and smart contract protocol services.
+Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain real value because they are backed by Bitcoin, the fair and transparent p2p value transfer protocol of the internet, and we will accept them at face value for any of Bitswift related products or services. 
+A copy of the current Bitswift reward networks source code can be found here: GITHUB
 To take full advantage of the networks features, we recommend building from source and running in a secure Linux environment.
-
-The Bitswift network may serve different use cases such as, digital notary services, secure digital value storage, secure digital value transfer measurement, and smart contracts.
 
 ### Bitswift Specs
 * RPCPort: 21137
@@ -30,5 +24,5 @@ rpcport=21137
 rpcconnect=127.0.0.1
 ```
 
-###### * Please note, while the Bitswift network has a good track record, it is  still considered experimental software.    Bitswift Decentralized Applications Inc. operating as Bitswift Technology Solutions and its employees, affiliates and related,  may not be held liable for any damage, or losses incurred by using the network whether directly or indirectly or inherited otherwise.
+###### * Please note, while the Bitswift network has a good track record, it is  still considered experimental software. Bitswift Decentralized Applications Inc. operating as Bitswift Technology Solutions and its employees, affiliates and related,  may not be held liable for any damage, or losses incurred by using the network whether directly or indirectly or inherited otherwise.
 =======
