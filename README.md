@@ -4,9 +4,7 @@ The Bitswift rewards network is a publicly available distributed ledger that is 
 
 The Bitswift rewards network business association, and integration, sets it apart from other comparable decentralized ledgers.  The Bitswift rewards network may serve different use cases such as, digital notary, digital proof systems and smart contract protocol services.
 
-Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain real value because they are backed by Bitcoin, the fair and transparent p2p value transfer protocol of the internet, and we will accept them at face value for any of Bitswift related products or services. 
-
-A copy of the current Bitswift reward networks source code can be found here: GITHUB
+Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain value because they are exchangebale for Bitcoin, the fair and transparent p2p value transfer protocol of the internet.
 
 To take full advantage of the networks features, we recommend building from source and running in a secure Linux environment.
 
@@ -28,5 +26,8 @@ rpcport=21137
 rpcconnect=127.0.0.1
 ```
 
-###### * Please note, while the Bitswift network has a good track record, it is  still considered experimental software. Bitswift Decentralized Applications Inc. operating as Bitswift Technology Solutions and its employees, affiliates and related,  may not be held liable for any damage, or losses incurred by using the network whether directly or indirectly or inherited otherwise.
+###### * Please note, while the Bitswift rewards network has a good track record, it is  still considered experimental software. Bitswift Decentralized Applications Inc. operating as Bitswift Technology Solutions and its employees, affiliates and related,  may not be held liable for any damage, or losses incurred by using the network whether directly or indirectly or inherited otherwise.
+
+USE AT YOUR OWN RISK
+
 =======
