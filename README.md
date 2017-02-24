@@ -4,7 +4,7 @@ The Bitswift rewards network is a publicly available distributed ledger that is 
 
 The Bitswift rewards network business association, and integration, sets it apart from other comparable decentralized ledgers.  The Bitswift rewards network may serve different use cases such as, digital notary, digital proof systems and smart contract protocol services.
 
-Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain value because they are exchangebale for Bitcoin, the fair and transparent p2p value transfer protocol of the internet.
+Rewards earned may be redeemed for products and services offered by Bitswift.  Bitswift rewards may  be sold directly for Bitcoin on any supporting digital currency exchange.  Bitswift rewards attain value because they are exchangeable for Bitcoin, the fair and transparent p2p value transfer protocol of the internet.
 
 To take full advantage of the networks features, we recommend building from source and running in a secure Linux environment.
 
