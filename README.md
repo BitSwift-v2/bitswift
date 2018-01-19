@@ -1,3 +1,12 @@
+# Network Update Notice 
+
+Please note that this source code is no longer the functional source behind the Bitswift blockchain rewards network.  Bitswift tokens and users have been migrated into the Ardor platform, and Bitswift now exists as an Ardor child chain.  
+
+You can view the source for Ardor here : https://bitbucket.org/Jelurida/ardor/src
+
+Everything below this line should be considered obsolete and used for educational and historical purposes only:
+____________________________________________________________________________________________________________________
+
 # What is the Bitswift rewards network?
 
 The Bitswift rewards network is a publicly available distributed ledger that is secured through the networks decentralized model. The rewards network is built on top of blockchain technology which ensures security and reliability while maintaining exceptional performance.
